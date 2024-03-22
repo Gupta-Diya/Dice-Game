@@ -3,7 +3,7 @@ const StartGame=({toggle})=>{
     return (
         <Container>
             <div>
-                <img src="./dices.png"/>
+                <img src="https://drive.google.com/file/d/1eNRZ8SEeFdNYotFfYh8UCfgbjba82ldT/view?usp=sharing"/>
             </div>
             <div className="content">
                 <h1>Dice Game</h1>
